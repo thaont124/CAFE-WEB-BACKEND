@@ -23,6 +23,11 @@
     </developers>
     <modules>
         <module>auth-service</module>
+        <module>common-service</module>
+        <module>cafe-domain</module>
+        <module>product-service-admin</module>
+        <module>product-service-jupiter</module>
+        <module>common-api-service</module>
     </modules>
     <scm>
         <connection/>
